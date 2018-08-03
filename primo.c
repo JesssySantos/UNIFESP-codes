@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main(){
 
     int num,div,cont,soma=0;
