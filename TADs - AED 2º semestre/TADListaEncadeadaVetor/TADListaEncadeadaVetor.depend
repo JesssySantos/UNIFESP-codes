@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1473049040 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadlistaencadeadavetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADListaEncadeadaVetor.h"
+
+1473048931 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadlistaencadeadavetor\tadlistaencadeadavetor.c
+	<stdio.h>
+	<stdlib.h>
+	"TADListaEncadeadaVetor.h"
+
+1473048931 c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadlistaencadeadavetor\tadlistaencadeadavetor.h
+	<stdio.h>
+	<stdlib.h>
+

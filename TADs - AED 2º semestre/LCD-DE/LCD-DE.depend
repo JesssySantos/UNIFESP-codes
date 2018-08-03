@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475255503 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\lcd-de\lcd-de.c
+	<stdio.h>
+	"LCD-DE.h"
+
+1475259057 c:\users\jéssica\documents\aed\tads - aed 2º semestre\lcd-de\lcd-de.h
+	<stdio.h>
+	<stdlib.h>
+
+1475259166 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\lcd-de\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LCD-DE.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479178456 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadgrafo_matrizincd\tgrafo_pormatrizincd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TGrafo_porMatrizIncd.h"
+
+1479178838 c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadgrafo_matrizincd\tgrafo_pormatrizincd\tgrafo_pormatrizincd.h
+	<stdio.h>
+	<stdlib.h>
+
+1479178456 source:c:\users\jéssica\documents\aed\tads - aed 2º semestre\tadgrafo_matrizincd\tgrafo_pormatrizincd\tgrafo_pormatrizincd.c
+	<stdio.h>
+	<stdlib.h>
+	"TGrafo_porMatrizIncd.h"
+
