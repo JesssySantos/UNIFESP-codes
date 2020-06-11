@@ -1,0 +1,8 @@
+Você precisa dirigir um carro de uma cidade A até uma cidade B. Um tanque
+cheio do carro possui autonomia para viajar m quilômetros e você sabe as
+distâncias, a partir de A, dos postos de combustível existentes no caminho.
+Sejam d1 < d2 < … < dn as distâncias dos n postos do caminho. Você deve
+encontrar onde você deve parar para abastecer o carro de forma a fazer o
+menor número de paradas para chegar até B.
+a) Forneça um algoritmo guloso para resolver o problema.
+b) Mostre que o algoritmo encontra a solução ótima.
